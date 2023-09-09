@@ -1,4 +1,4 @@
 function login(value, value2){
-    //Isso é um comentário
-    return value + value2;
+    let strjoin = value + value2;
+    return strjoin;
 }
