@@ -1,2 +1,6 @@
 This is a test
+<<<<<<< HEAD
 More a test 
+=======
+xxxx
+>>>>>>> 7565f55e0be88ca3f6314fc14b90e36147e28263
